@@ -8,3 +8,5 @@ def max_num(a, b, c):
     return(largest)
 
 print(max_num(1, 2, 3))
+
+#max function! - That is so much easier.
